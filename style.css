@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Tamma");
+@import url("https://fonts.googleapis.com/css?family=Baloo+Paaji");
+p {
+     font-family: "Baloo Tamma";
+}
+
+h4 {
+     font-family: "Baloo Paaji"
+}
+
+h2 {
+     font-family: "Bungee"
+}

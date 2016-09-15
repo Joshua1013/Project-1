@@ -9,6 +9,7 @@ p {
 }
 
 h4 {
+     color : #6699CC;
      font-family: "Baloo Paaji"
 }
 
@@ -19,3 +20,13 @@ h3 {
 html{
   background-image:url("http://karenpalmer.com/wp-content/uploads/2016/01/Stars.jpg")
 }
+li{
+  color : #6699CC;
+}
+h5{
+  color : #6699CC;
+}
+h2 {
+    color : #6699CC;
+     font-family: "Bungee"
+   }
